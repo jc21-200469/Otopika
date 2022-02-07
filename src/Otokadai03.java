@@ -24,18 +24,7 @@ public class Otokadai03  {
 			oto1.sleep();
 			oto1.lightOff();
 			oto1.sleep();
-			oto1.lightGreen();
-			oto1.sleep();
-			oto1.lightGreenYellow();
-			oto1.sleep();
-			oto1.lightYellow();
-			oto1.sleep();
-			oto1.lightYellowRed();
-			oto1.sleep();
-			oto1.lightRed();
-			oto1.sleep();
-			oto1.lightGreenRed();
-			oto1.sleep();
+
 		}
 
 	}
