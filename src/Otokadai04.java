@@ -23,11 +23,10 @@ public class Otokadai04  {
 			oto1.lightAll();
 			oto2.lightOff();
 			oto1.sleep();
-			oto2.sleep();
 			oto1.lightOff();
 			oto2.lightAll();
 			oto1.sleep();
-			oto2.sleep();
+		
 	}
 
 }
